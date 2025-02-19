@@ -7,7 +7,7 @@ function Card() {
 
   async function apiCall() {
     await axios
-      .get("http://localhost:8000/api/greet", { params: { name } })
+      .get("https://younglab-backend.vercel.app/api/greet", { params: { name } })
       .then((res) => setMessage(res.data))
       .catch((err) => console.error(err));
       setName("");
