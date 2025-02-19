@@ -1,8 +1,33 @@
-# React + Vite
+# Frontend - Vite + React
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a frontend project built using **Vite** and **React.js**. Vite provides a fast and optimized development environment, making React applications more efficient.
 
-Currently, two official plugins are available:
+## 🚀 Features
+- ⚡ **Vite** for fast builds and hot module replacement
+- ⚛ **React.js** for UI development
+- 🎨 **Tailwind CSS** (optional) for styling
+- 📦 **Prettier** for code consistency
+- 🔄 **React Router** for client-side navigation
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🛠 Installation & Setup
+
+### 1️⃣ Clone the Repository
+```bash
+ git clone https://github.com/SH11VAM/youndLabsFrontend.git
+ cd youndLabsFrontend
+```
+
+###2️⃣ Install Dependencies
+```bash
+ npm install
+```
+
+###3️⃣ Start Development 
+```bash
+npm run dev
+```
+
+
+## License
+
+[MIT](https://choosealicense.com/licenses/mit/)
